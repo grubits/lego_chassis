@@ -5,4 +5,6 @@ Die 4 seitlichen Bestigungsösen müssten mit einer Knippex entfernt werden, dam
 
 Der kleine "Protector" dient als Schutz vor Beschädigungen, wenn man bspw. zu lange "Stöpsel" in die Löcher steckt.
 
+Das Gehäuse wird mit 4x M2*6 Schrauben von der Unterseite aus verschraubt.
+
 ![Multiplexer-Chassis](https://github.com/grubits/lego_chassis/blob/main/Seeedstudio%20Multiplexer/Seeedstudio%20Multiplexer.jpg)
